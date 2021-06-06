@@ -74,6 +74,7 @@ Other,Thailand,1000000
 Other,Chile,1800000
 Other,Morocco,41000000
 Other,Egypt,45000000
+Other,Rest,572405500
 Other,Latam (w/o Brazil),0
 Other,Philippines,18000000
 Other,Australia,0
@@ -166,6 +167,7 @@ Sanofi-GSK,Thailand,0
 Sanofi-GSK,Chile,0
 Sanofi-GSK,Morocco,0
 Sanofi-GSK,Egypt,0
+Sanofi-GSK,Rest,0
 Sanofi-GSK,Latam (w/o Brazil),0
 Sanofi-GSK,Philippines,0
 Sanofi-GSK,Australia,0
@@ -258,6 +260,7 @@ Janssen (J&J) ,Thailand,0
 Janssen (J&J) ,Chile,4000000
 Janssen (J&J) ,Morocco,0
 Janssen (J&J) ,Egypt,0
+Janssen (J&J) ,Rest,53303000
 Janssen (J&J) ,Latam (w/o Brazil),0
 Janssen (J&J) ,Philippines,5000000
 Janssen (J&J) ,Australia,0
@@ -350,6 +353,7 @@ Sinovac,Thailand,18100000
 Sinovac,Chile,60000000
 Sinovac,Morocco,0
 Sinovac,Egypt,40000000
+Sinovac,Rest,457570000
 Sinovac,Latam (w/o Brazil),0
 Sinovac,Philippines,25000000
 Sinovac,Australia,0
@@ -442,6 +446,7 @@ Novavax,Thailand,0
 Novavax,Chile,0
 Novavax,Morocco,0
 Novavax,Egypt,0
+Novavax,Rest,196700000
 Novavax,Latam (w/o Brazil),0
 Novavax,Philippines,30000000
 Novavax,Australia,51000000
@@ -534,6 +539,7 @@ Moderna,Thailand,0
 Moderna,Chile,0
 Moderna,Morocco,0
 Moderna,Egypt,0
+Moderna,Rest,119000000
 Moderna,Latam (w/o Brazil),0
 Moderna,Philippines,13000000
 Moderna,Australia,25000000
@@ -626,6 +632,7 @@ AstraZeneca,Thailand,66000000
 AstraZeneca,Chile,14400000
 AstraZeneca,Morocco,50000000
 AstraZeneca,Egypt,30000000
+AstraZeneca,Rest,614165000
 AstraZeneca,Latam (w/o Brazil),127600000
 AstraZeneca,Philippines,17000000
 AstraZeneca,Australia,53800000
@@ -718,6 +725,7 @@ Pfizer,Thailand,0
 Pfizer,Chile,10000000
 Pfizer,Morocco,0
 Pfizer,Egypt,0
+Pfizer,Rest,475570075
 Pfizer,Latam (w/o Brazil),0
 Pfizer,Philippines,40000000
 Pfizer,Australia,40000000

@@ -5,11 +5,12 @@ from bokeh.plotting import show
 
 
 
-df = pd.read_csv(r"C:\Users\YingLi\PycharmProjects\vaccines\vaccines_data.csv")
-value_list = ["EU","COVAX","USA","UK","Brazil","China","India","Canada","Japan","Latin America w/o Brazil","African Union"]
+df = pd.read_csv(r"C:\Users\YingLi\PycharmProjects\vaccines\vaccines_data_formated.csv")
+value_list = ["EU","COVAX","USA","UK","Brazil","China","India","Canada","Japan","Latam (w/o Brazil)","African Union","Rest"]
 boolean_series = df.Country.isin(value_list)
 df = df[boolean_series]
-df['Doses'] = df['Doses'].div(1000000000).round(2)
+df['Doses'] = df['Doses'].div(1000000000).round(3)
+print (df.head)
 
 
 
