@@ -1,0 +1,737 @@
+Manufacturer,Country,Doses
+Other,Algeria,0
+Other,Bosnia,0
+Other,Croatia,0
+Other,Cyprus,0
+Other,Germany,0
+Other,Macao,0
+Other,Moldova,0
+Other,Paraguay,0
+Other,Qatar,0
+Other,Russia,0
+Other,Singapore,0
+Other,Syria,0
+Other,San Marino,7500
+Other,Belarus,100000
+Other,Mauritius,0
+Other,Senegal,200000
+Other,Somalia,200000
+Other,Benin,0
+Other,Maldives,218000
+Other,Bahrain,300000
+Other,Oman,0
+Other,Armenia,1000000
+Other,Jordan,150000
+Other,Kosovo,0
+Other,North Macedonia,500000
+Other,Honduras,70000
+Other,Albania,0
+Other,Botswana,0
+Other,Slovakia,2000000
+Other,Uzbekistan,2000000
+Other,Palestine,10000
+Other,Zimbabwe,1000000
+Other,Tunisia,500000
+Other,Kazakhstan,3000000
+Other,Lebanon,1000000
+Other,United Arab Emirates,3000000
+Other,Cambodia,1700000
+Other,Mongolia,3600000
+Other,Uruguay,0
+Other,Kuwait,0
+Other,Panama,0
+Other,Costa Rica,0
+Other,Serbia,5000000
+Other,Iraq,3050000
+Other,Hungary,7000000
+Other,Saudi Arabia,0
+Other,El Salvador,0
+Other,Azerbaijan,0
+Other,Venezuela,10000000
+Other,Hong Kong,0
+Other,Ecuador,2000000
+Other,Guatemala,16000000
+Other,Dominican Republic,0
+Other,Bolivia,4100000
+Other,Nepal,25800000
+Other,New Zealand,0
+Other,Pakistan,25700000
+Other,Switzerland,5000000
+Other,South Africa,0
+Other,Bangladesh,0
+Other,Myanmar,0
+Other,SriLanka,27600000
+Other,Taiwan,0
+Other,Israel,4000000
+Other,Ukraine,0
+Other,Colombia,0
+Other,Peru,2000000
+Other,Argentina,34000000
+Other,Iran,62900000
+Other,Malaysia,9900000
+Other,Vietnam,50000000
+Other,Thailand,1000000
+Other,Chile,1800000
+Other,Morocco,41000000
+Other,Egypt,45000000
+Other,Latam (w/o Brazil),0
+Other,Philippines,18000000
+Other,Australia,0
+Other,South Korea,0
+Other,Mexico,71000000
+Other,Turkey,50000000
+Other,Indonesia,30000000
+Other,African Union,0
+Other,Japan,0
+Other,Canada,76000000
+Other,India,180000000
+Other,China,0
+Other,Brazil,10000000
+Other,UK,150000000
+Other,USA,0
+Other,COVAX,0
+Other,EU,225000000
+Sanofi-GSK,Algeria,0
+Sanofi-GSK,Bosnia,0
+Sanofi-GSK,Croatia,0
+Sanofi-GSK,Cyprus,0
+Sanofi-GSK,Germany,0
+Sanofi-GSK,Macao,0
+Sanofi-GSK,Moldova,0
+Sanofi-GSK,Paraguay,0
+Sanofi-GSK,Qatar,0
+Sanofi-GSK,Russia,0
+Sanofi-GSK,Singapore,0
+Sanofi-GSK,Syria,0
+Sanofi-GSK,San Marino,0
+Sanofi-GSK,Belarus,0
+Sanofi-GSK,Mauritius,0
+Sanofi-GSK,Senegal,0
+Sanofi-GSK,Somalia,0
+Sanofi-GSK,Benin,0
+Sanofi-GSK,Maldives,0
+Sanofi-GSK,Bahrain,0
+Sanofi-GSK,Oman,0
+Sanofi-GSK,Armenia,0
+Sanofi-GSK,Jordan,0
+Sanofi-GSK,Kosovo,0
+Sanofi-GSK,North Macedonia,0
+Sanofi-GSK,Honduras,0
+Sanofi-GSK,Albania,0
+Sanofi-GSK,Botswana,0
+Sanofi-GSK,Slovakia,0
+Sanofi-GSK,Uzbekistan,0
+Sanofi-GSK,Palestine,0
+Sanofi-GSK,Zimbabwe,0
+Sanofi-GSK,Tunisia,0
+Sanofi-GSK,Kazakhstan,0
+Sanofi-GSK,Lebanon,0
+Sanofi-GSK,United Arab Emirates,0
+Sanofi-GSK,Cambodia,0
+Sanofi-GSK,Mongolia,0
+Sanofi-GSK,Uruguay,0
+Sanofi-GSK,Kuwait,0
+Sanofi-GSK,Panama,0
+Sanofi-GSK,Costa Rica,0
+Sanofi-GSK,Serbia,0
+Sanofi-GSK,Iraq,0
+Sanofi-GSK,Hungary,0
+Sanofi-GSK,Saudi Arabia,0
+Sanofi-GSK,El Salvador,0
+Sanofi-GSK,Azerbaijan,0
+Sanofi-GSK,Venezuela,0
+Sanofi-GSK,Hong Kong,0
+Sanofi-GSK,Ecuador,0
+Sanofi-GSK,Guatemala,0
+Sanofi-GSK,Dominican Republic,0
+Sanofi-GSK,Bolivia,0
+Sanofi-GSK,Nepal,0
+Sanofi-GSK,New Zealand,0
+Sanofi-GSK,Pakistan,0
+Sanofi-GSK,Switzerland,0
+Sanofi-GSK,South Africa,0
+Sanofi-GSK,Bangladesh,0
+Sanofi-GSK,Myanmar,0
+Sanofi-GSK,SriLanka,0
+Sanofi-GSK,Taiwan,0
+Sanofi-GSK,Israel,0
+Sanofi-GSK,Ukraine,0
+Sanofi-GSK,Colombia,0
+Sanofi-GSK,Peru,0
+Sanofi-GSK,Argentina,0
+Sanofi-GSK,Iran,0
+Sanofi-GSK,Malaysia,0
+Sanofi-GSK,Vietnam,0
+Sanofi-GSK,Thailand,0
+Sanofi-GSK,Chile,0
+Sanofi-GSK,Morocco,0
+Sanofi-GSK,Egypt,0
+Sanofi-GSK,Latam (w/o Brazil),0
+Sanofi-GSK,Philippines,0
+Sanofi-GSK,Australia,0
+Sanofi-GSK,South Korea,0
+Sanofi-GSK,Mexico,0
+Sanofi-GSK,Turkey,0
+Sanofi-GSK,Indonesia,0
+Sanofi-GSK,African Union,0
+Sanofi-GSK,Japan,0
+Sanofi-GSK,Canada,72000000
+Sanofi-GSK,India,0
+Sanofi-GSK,China,0
+Sanofi-GSK,Brazil,0
+Sanofi-GSK,UK,60000000
+Sanofi-GSK,USA,100000000
+Sanofi-GSK,COVAX,0
+Sanofi-GSK,EU,300000000
+Janssen (J&J) ,Algeria,0
+Janssen (J&J) ,Bosnia,0
+Janssen (J&J) ,Croatia,0
+Janssen (J&J) ,Cyprus,0
+Janssen (J&J) ,Germany,0
+Janssen (J&J) ,Macao,0
+Janssen (J&J) ,Moldova,0
+Janssen (J&J) ,Paraguay,0
+Janssen (J&J) ,Qatar,0
+Janssen (J&J) ,Russia,0
+Janssen (J&J) ,Singapore,0
+Janssen (J&J) ,Syria,0
+Janssen (J&J) ,San Marino,0
+Janssen (J&J) ,Belarus,0
+Janssen (J&J) ,Mauritius,0
+Janssen (J&J) ,Senegal,0
+Janssen (J&J) ,Somalia,0
+Janssen (J&J) ,Benin,203000
+Janssen (J&J) ,Maldives,0
+Janssen (J&J) ,Bahrain,0
+Janssen (J&J) ,Oman,0
+Janssen (J&J) ,Armenia,0
+Janssen (J&J) ,Jordan,0
+Janssen (J&J) ,Kosovo,0
+Janssen (J&J) ,North Macedonia,0
+Janssen (J&J) ,Honduras,0
+Janssen (J&J) ,Albania,0
+Janssen (J&J) ,Botswana,1100000
+Janssen (J&J) ,Slovakia,0
+Janssen (J&J) ,Uzbekistan,0
+Janssen (J&J) ,Palestine,0
+Janssen (J&J) ,Zimbabwe,0
+Janssen (J&J) ,Tunisia,0
+Janssen (J&J) ,Kazakhstan,0
+Janssen (J&J) ,Lebanon,0
+Janssen (J&J) ,United Arab Emirates,0
+Janssen (J&J) ,Cambodia,0
+Janssen (J&J) ,Mongolia,0
+Janssen (J&J) ,Uruguay,0
+Janssen (J&J) ,Kuwait,0
+Janssen (J&J) ,Panama,0
+Janssen (J&J) ,Costa Rica,0
+Janssen (J&J) ,Serbia,0
+Janssen (J&J) ,Iraq,0
+Janssen (J&J) ,Hungary,0
+Janssen (J&J) ,Saudi Arabia,0
+Janssen (J&J) ,El Salvador,0
+Janssen (J&J) ,Azerbaijan,0
+Janssen (J&J) ,Venezuela,0
+Janssen (J&J) ,Hong Kong,0
+Janssen (J&J) ,Ecuador,0
+Janssen (J&J) ,Guatemala,0
+Janssen (J&J) ,Dominican Republic,0
+Janssen (J&J) ,Bolivia,15000000
+Janssen (J&J) ,Nepal,0
+Janssen (J&J) ,New Zealand,2000000
+Janssen (J&J) ,Pakistan,0
+Janssen (J&J) ,Switzerland,0
+Janssen (J&J) ,South Africa,11000000
+Janssen (J&J) ,Bangladesh,0
+Janssen (J&J) ,Myanmar,0
+Janssen (J&J) ,SriLanka,0
+Janssen (J&J) ,Taiwan,0
+Janssen (J&J) ,Israel,0
+Janssen (J&J) ,Ukraine,0
+Janssen (J&J) ,Colombia,9000000
+Janssen (J&J) ,Peru,0
+Janssen (J&J) ,Argentina,0
+Janssen (J&J) ,Iran,0
+Janssen (J&J) ,Malaysia,0
+Janssen (J&J) ,Vietnam,0
+Janssen (J&J) ,Thailand,0
+Janssen (J&J) ,Chile,4000000
+Janssen (J&J) ,Morocco,0
+Janssen (J&J) ,Egypt,0
+Janssen (J&J) ,Latam (w/o Brazil),0
+Janssen (J&J) ,Philippines,5000000
+Janssen (J&J) ,Australia,0
+Janssen (J&J) ,South Korea,6000000
+Janssen (J&J) ,Mexico,0
+Janssen (J&J) ,Turkey,0
+Janssen (J&J) ,Indonesia,0
+Janssen (J&J) ,African Union,220000000
+Janssen (J&J) ,Japan,0
+Janssen (J&J) ,Canada,10000000
+Janssen (J&J) ,India,0
+Janssen (J&J) ,China,0
+Janssen (J&J) ,Brazil,38000000
+Janssen (J&J) ,UK,30000000
+Janssen (J&J) ,USA,100000000
+Janssen (J&J) ,COVAX,200000000
+Janssen (J&J) ,EU,200000000
+Sinovac,Algeria,0
+Sinovac,Bosnia,0
+Sinovac,Croatia,0
+Sinovac,Cyprus,0
+Sinovac,Germany,0
+Sinovac,Macao,0
+Sinovac,Moldova,0
+Sinovac,Paraguay,0
+Sinovac,Qatar,0
+Sinovac,Russia,0
+Sinovac,Singapore,0
+Sinovac,Syria,0
+Sinovac,San Marino,0
+Sinovac,Belarus,0
+Sinovac,Mauritius,0
+Sinovac,Senegal,0
+Sinovac,Somalia,0
+Sinovac,Benin,0
+Sinovac,Maldives,0
+Sinovac,Bahrain,0
+Sinovac,Oman,0
+Sinovac,Armenia,0
+Sinovac,Jordan,0
+Sinovac,Kosovo,0
+Sinovac,North Macedonia,0
+Sinovac,Honduras,0
+Sinovac,Albania,1000000
+Sinovac,Botswana,400000
+Sinovac,Slovakia,0
+Sinovac,Uzbekistan,0
+Sinovac,Palestine,0
+Sinovac,Zimbabwe,1200000
+Sinovac,Tunisia,0
+Sinovac,Kazakhstan,0
+Sinovac,Lebanon,0
+Sinovac,United Arab Emirates,0
+Sinovac,Cambodia,1500000
+Sinovac,Mongolia,0
+Sinovac,Uruguay,1700000
+Sinovac,Kuwait,0
+Sinovac,Panama,0
+Sinovac,Costa Rica,0
+Sinovac,Serbia,0
+Sinovac,Iraq,0
+Sinovac,Hungary,0
+Sinovac,Saudi Arabia,0
+Sinovac,El Salvador,2150000
+Sinovac,Azerbaijan,9000000
+Sinovac,Venezuela,0
+Sinovac,Hong Kong,7500000
+Sinovac,Ecuador,2020000
+Sinovac,Guatemala,0
+Sinovac,Dominican Republic,0
+Sinovac,Bolivia,0
+Sinovac,Nepal,0
+Sinovac,New Zealand,0
+Sinovac,Pakistan,5000000
+Sinovac,Switzerland,0
+Sinovac,South Africa,0
+Sinovac,Bangladesh,0
+Sinovac,Myanmar,0
+Sinovac,SriLanka,0
+Sinovac,Taiwan,0
+Sinovac,Israel,0
+Sinovac,Ukraine,5000000
+Sinovac,Colombia,7500000
+Sinovac,Peru,0
+Sinovac,Argentina,0
+Sinovac,Iran,0
+Sinovac,Malaysia,25000000
+Sinovac,Vietnam,0
+Sinovac,Thailand,18100000
+Sinovac,Chile,60000000
+Sinovac,Morocco,0
+Sinovac,Egypt,40000000
+Sinovac,Latam (w/o Brazil),0
+Sinovac,Philippines,25000000
+Sinovac,Australia,0
+Sinovac,South Korea,0
+Sinovac,Mexico,20000000
+Sinovac,Turkey,100000000
+Sinovac,Indonesia,125500000
+Sinovac,African Union,0
+Sinovac,Japan,0
+Sinovac,Canada,0
+Sinovac,India,0
+Sinovac,China,340000000
+Sinovac,Brazil,100000000
+Sinovac,UK,0
+Sinovac,USA,0
+Sinovac,COVAX,0
+Sinovac,EU,0
+Novavax,Algeria,0
+Novavax,Bosnia,0
+Novavax,Croatia,0
+Novavax,Cyprus,0
+Novavax,Germany,0
+Novavax,Macao,0
+Novavax,Moldova,0
+Novavax,Paraguay,0
+Novavax,Qatar,0
+Novavax,Russia,0
+Novavax,Singapore,0
+Novavax,Syria,0
+Novavax,San Marino,0
+Novavax,Belarus,0
+Novavax,Mauritius,0
+Novavax,Senegal,0
+Novavax,Somalia,0
+Novavax,Benin,0
+Novavax,Maldives,0
+Novavax,Bahrain,0
+Novavax,Oman,0
+Novavax,Armenia,0
+Novavax,Jordan,0
+Novavax,Kosovo,0
+Novavax,North Macedonia,0
+Novavax,Honduras,0
+Novavax,Albania,0
+Novavax,Botswana,0
+Novavax,Slovakia,0
+Novavax,Uzbekistan,0
+Novavax,Palestine,0
+Novavax,Zimbabwe,0
+Novavax,Tunisia,0
+Novavax,Kazakhstan,0
+Novavax,Lebanon,0
+Novavax,United Arab Emirates,0
+Novavax,Cambodia,0
+Novavax,Mongolia,0
+Novavax,Uruguay,0
+Novavax,Kuwait,0
+Novavax,Panama,0
+Novavax,Costa Rica,0
+Novavax,Serbia,0
+Novavax,Iraq,0
+Novavax,Hungary,0
+Novavax,Saudi Arabia,0
+Novavax,El Salvador,0
+Novavax,Azerbaijan,0
+Novavax,Venezuela,0
+Novavax,Hong Kong,0
+Novavax,Ecuador,0
+Novavax,Guatemala,0
+Novavax,Dominican Republic,0
+Novavax,Bolivia,0
+Novavax,Nepal,0
+Novavax,New Zealand,10700000
+Novavax,Pakistan,0
+Novavax,Switzerland,0
+Novavax,South Africa,0
+Novavax,Bangladesh,0
+Novavax,Myanmar,0
+Novavax,SriLanka,0
+Novavax,Taiwan,0
+Novavax,Israel,0
+Novavax,Ukraine,15000000
+Novavax,Colombia,0
+Novavax,Peru,0
+Novavax,Argentina,0
+Novavax,Iran,0
+Novavax,Malaysia,0
+Novavax,Vietnam,0
+Novavax,Thailand,0
+Novavax,Chile,0
+Novavax,Morocco,0
+Novavax,Egypt,0
+Novavax,Latam (w/o Brazil),0
+Novavax,Philippines,30000000
+Novavax,Australia,51000000
+Novavax,South Korea,40000000
+Novavax,Mexico,0
+Novavax,Turkey,0
+Novavax,Indonesia,50000000
+Novavax,African Union,0
+Novavax,Japan,0
+Novavax,Canada,52000000
+Novavax,India,0
+Novavax,China,0
+Novavax,Brazil,0
+Novavax,UK,60000000
+Novavax,USA,110000000
+Novavax,COVAX,900000000
+Novavax,EU,0
+Moderna,Algeria,0
+Moderna,Bosnia,0
+Moderna,Croatia,0
+Moderna,Cyprus,0
+Moderna,Germany,0
+Moderna,Macao,0
+Moderna,Moldova,0
+Moderna,Paraguay,0
+Moderna,Qatar,0
+Moderna,Russia,0
+Moderna,Singapore,0
+Moderna,Syria,0
+Moderna,San Marino,0
+Moderna,Belarus,0
+Moderna,Mauritius,0
+Moderna,Senegal,0
+Moderna,Somalia,0
+Moderna,Benin,0
+Moderna,Maldives,0
+Moderna,Bahrain,0
+Moderna,Oman,0
+Moderna,Armenia,0
+Moderna,Jordan,0
+Moderna,Kosovo,0
+Moderna,North Macedonia,0
+Moderna,Honduras,0
+Moderna,Albania,0
+Moderna,Botswana,500000
+Moderna,Slovakia,0
+Moderna,Uzbekistan,0
+Moderna,Palestine,0
+Moderna,Zimbabwe,0
+Moderna,Tunisia,0
+Moderna,Kazakhstan,0
+Moderna,Lebanon,0
+Moderna,United Arab Emirates,0
+Moderna,Cambodia,0
+Moderna,Mongolia,0
+Moderna,Uruguay,0
+Moderna,Kuwait,0
+Moderna,Panama,0
+Moderna,Costa Rica,0
+Moderna,Serbia,0
+Moderna,Iraq,0
+Moderna,Hungary,0
+Moderna,Saudi Arabia,0
+Moderna,El Salvador,0
+Moderna,Azerbaijan,0
+Moderna,Venezuela,0
+Moderna,Hong Kong,0
+Moderna,Ecuador,0
+Moderna,Guatemala,0
+Moderna,Dominican Republic,0
+Moderna,Bolivia,0
+Moderna,Nepal,0
+Moderna,New Zealand,0
+Moderna,Pakistan,0
+Moderna,Switzerland,20500000
+Moderna,South Africa,0
+Moderna,Bangladesh,0
+Moderna,Myanmar,0
+Moderna,SriLanka,0
+Moderna,Taiwan,0
+Moderna,Israel,10000000
+Moderna,Ukraine,0
+Moderna,Colombia,10000000
+Moderna,Peru,0
+Moderna,Argentina,0
+Moderna,Iran,0
+Moderna,Malaysia,0
+Moderna,Vietnam,0
+Moderna,Thailand,0
+Moderna,Chile,0
+Moderna,Morocco,0
+Moderna,Egypt,0
+Moderna,Latam (w/o Brazil),0
+Moderna,Philippines,13000000
+Moderna,Australia,25000000
+Moderna,South Korea,40000000
+Moderna,Mexico,0
+Moderna,Turkey,0
+Moderna,Indonesia,0
+Moderna,African Union,0
+Moderna,Japan,50000000
+Moderna,Canada,44000000
+Moderna,India,0
+Moderna,China,0
+Moderna,Brazil,0
+Moderna,UK,17000000
+Moderna,USA,300000000
+Moderna,COVAX,500000000
+Moderna,EU,310000000
+AstraZeneca,Algeria,0
+AstraZeneca,Bosnia,0
+AstraZeneca,Croatia,0
+AstraZeneca,Cyprus,0
+AstraZeneca,Germany,0
+AstraZeneca,Macao,0
+AstraZeneca,Moldova,0
+AstraZeneca,Paraguay,0
+AstraZeneca,Qatar,0
+AstraZeneca,Russia,0
+AstraZeneca,Singapore,0
+AstraZeneca,Syria,0
+AstraZeneca,San Marino,0
+AstraZeneca,Belarus,0
+AstraZeneca,Mauritius,100000
+AstraZeneca,Senegal,0
+AstraZeneca,Somalia,0
+AstraZeneca,Benin,0
+AstraZeneca,Maldives,0
+AstraZeneca,Bahrain,0
+AstraZeneca,Oman,0
+AstraZeneca,Armenia,0
+AstraZeneca,Jordan,0
+AstraZeneca,Kosovo,0
+AstraZeneca,North Macedonia,0
+AstraZeneca,Honduras,1400000
+AstraZeneca,Albania,0
+AstraZeneca,Botswana,0
+AstraZeneca,Slovakia,0
+AstraZeneca,Uzbekistan,0
+AstraZeneca,Palestine,2025000
+AstraZeneca,Zimbabwe,0
+AstraZeneca,Tunisia,0
+AstraZeneca,Kazakhstan,0
+AstraZeneca,Lebanon,0
+AstraZeneca,United Arab Emirates,0
+AstraZeneca,Cambodia,100000
+AstraZeneca,Mongolia,0
+AstraZeneca,Uruguay,0
+AstraZeneca,Kuwait,3000000
+AstraZeneca,Panama,0
+AstraZeneca,Costa Rica,1000000
+AstraZeneca,Serbia,0
+AstraZeneca,Iraq,2000000
+AstraZeneca,Hungary,0
+AstraZeneca,Saudi Arabia,4500000
+AstraZeneca,El Salvador,2000000
+AstraZeneca,Azerbaijan,0
+AstraZeneca,Venezuela,0
+AstraZeneca,Hong Kong,0
+AstraZeneca,Ecuador,5000000
+AstraZeneca,Guatemala,0
+AstraZeneca,Dominican Republic,10110000
+AstraZeneca,Bolivia,5000000
+AstraZeneca,Nepal,2000000
+AstraZeneca,New Zealand,7600000
+AstraZeneca,Pakistan,0
+AstraZeneca,Switzerland,0
+AstraZeneca,South Africa,1000000
+AstraZeneca,Bangladesh,33000000
+AstraZeneca,Myanmar,33500000
+AstraZeneca,SriLanka,10500000
+AstraZeneca,Taiwan,10000000
+AstraZeneca,Israel,10000000
+AstraZeneca,Ukraine,3200000
+AstraZeneca,Colombia,10000000
+AstraZeneca,Peru,14000000
+AstraZeneca,Argentina,23600000
+AstraZeneca,Iran,0
+AstraZeneca,Malaysia,6400000
+AstraZeneca,Vietnam,30000000
+AstraZeneca,Thailand,66000000
+AstraZeneca,Chile,14400000
+AstraZeneca,Morocco,50000000
+AstraZeneca,Egypt,30000000
+AstraZeneca,Latam (w/o Brazil),127600000
+AstraZeneca,Philippines,17000000
+AstraZeneca,Australia,53800000
+AstraZeneca,South Korea,20000000
+AstraZeneca,Mexico,81930000
+AstraZeneca,Turkey,0
+AstraZeneca,Indonesia,50000000
+AstraZeneca,African Union,0
+AstraZeneca,Japan,120000000
+AstraZeneca,Canada,23500000
+AstraZeneca,India,210000000
+AstraZeneca,China,0
+AstraZeneca,Brazil,102000000
+AstraZeneca,UK,100000000
+AstraZeneca,USA,300000000
+AstraZeneca,COVAX,721000000
+AstraZeneca,EU,300000000
+Pfizer,Algeria,0
+Pfizer,Bosnia,0
+Pfizer,Croatia,0
+Pfizer,Cyprus,0
+Pfizer,Germany,0
+Pfizer,Macao,0
+Pfizer,Moldova,0
+Pfizer,Paraguay,0
+Pfizer,Qatar,0
+Pfizer,Russia,0
+Pfizer,Singapore,0
+Pfizer,Syria,0
+Pfizer,San Marino,0
+Pfizer,Belarus,0
+Pfizer,Mauritius,0
+Pfizer,Senegal,0
+Pfizer,Somalia,0
+Pfizer,Benin,0
+Pfizer,Maldives,0
+Pfizer,Bahrain,0
+Pfizer,Oman,370000
+Pfizer,Armenia,0
+Pfizer,Jordan,1000000
+Pfizer,Kosovo,1200000
+Pfizer,North Macedonia,800000
+Pfizer,Honduras,0
+Pfizer,Albania,500000
+Pfizer,Botswana,0
+Pfizer,Slovakia,0
+Pfizer,Uzbekistan,0
+Pfizer,Palestine,0
+Pfizer,Zimbabwe,0
+Pfizer,Tunisia,2000000
+Pfizer,Kazakhstan,0
+Pfizer,Lebanon,2000000
+Pfizer,United Arab Emirates,0
+Pfizer,Cambodia,0
+Pfizer,Mongolia,0
+Pfizer,Uruguay,2000000
+Pfizer,Kuwait,1000000
+Pfizer,Panama,5000000
+Pfizer,Costa Rica,4000075
+Pfizer,Serbia,500000
+Pfizer,Iraq,1500000
+Pfizer,Hungary,0
+Pfizer,Saudi Arabia,3000000
+Pfizer,El Salvador,4400000
+Pfizer,Azerbaijan,0
+Pfizer,Venezuela,0
+Pfizer,Hong Kong,7500000
+Pfizer,Ecuador,6000000
+Pfizer,Guatemala,0
+Pfizer,Dominican Republic,7900000
+Pfizer,Bolivia,0
+Pfizer,Nepal,0
+Pfizer,New Zealand,10000000
+Pfizer,Pakistan,0
+Pfizer,Switzerland,6000000
+Pfizer,South Africa,20000000
+Pfizer,Bangladesh,0
+Pfizer,Myanmar,0
+Pfizer,SriLanka,0
+Pfizer,Taiwan,30000000
+Pfizer,Israel,17000000
+Pfizer,Ukraine,20000000
+Pfizer,Colombia,10000000
+Pfizer,Peru,32000000
+Pfizer,Argentina,0
+Pfizer,Iran,0
+Pfizer,Malaysia,25000000
+Pfizer,Vietnam,0
+Pfizer,Thailand,0
+Pfizer,Chile,10000000
+Pfizer,Morocco,0
+Pfizer,Egypt,0
+Pfizer,Latam (w/o Brazil),0
+Pfizer,Philippines,40000000
+Pfizer,Australia,40000000
+Pfizer,South Korea,66000000
+Pfizer,Mexico,34400000
+Pfizer,Turkey,64500000
+Pfizer,Indonesia,0
+Pfizer,African Union,50000000
+Pfizer,Japan,194000000
+Pfizer,Canada,105000000
+Pfizer,India,0
+Pfizer,China,100000000
+Pfizer,Brazil,200000000
+Pfizer,UK,100000000
+Pfizer,USA,300000000
+Pfizer,COVAX,40000000
+Pfizer,EU,1550000000
